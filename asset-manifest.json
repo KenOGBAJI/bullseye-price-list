@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bullseye-price-list/static/css/main.ab0fb463.css",
+    "main.js": "/bullseye-price-list/static/js/main.9594e20b.js",
+    "index.html": "/bullseye-price-list/index.html",
+    "main.ab0fb463.css.map": "/bullseye-price-list/static/css/main.ab0fb463.css.map",
+    "main.9594e20b.js.map": "/bullseye-price-list/static/js/main.9594e20b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0fb463.css",
+    "static/js/main.9594e20b.js"
+  ]
+}
