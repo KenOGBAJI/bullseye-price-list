@@ -14,6 +14,16 @@ body {
   font-size: 15PX;
 }
 
+.linear-gradient {
+  background: linear-gradient(90deg, hsl(236, 72%, 79%), hsl(237, 63%, 64%)
+  );
+}
+
+.btn:hover {
+  background: linear-gradient(90deg, hsla(0,0%, 100%, 0), hsla(0, 0%, 100%, 0));
+  border: 2px solid black;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
